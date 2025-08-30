@@ -4,3 +4,5 @@
 
 ## To run
 node main.js
+
+### Sorry I have hard code the json test-case as you said us to import them as json file
